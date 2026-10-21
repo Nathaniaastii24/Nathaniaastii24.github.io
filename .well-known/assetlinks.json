@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.projek_akhir_pam",
+      "sha256_cert_fingerprints": [
+        "8B:FF:26:63:69:18:18:02:96:69:98:CE:76:BC:CB:EE:1B:1D:96:84:3D:20:39:05:F5:34:78:88:CE:0D:1E:52"
+      ]
+    }
+  }
+]
